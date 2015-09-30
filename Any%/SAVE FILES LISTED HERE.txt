@@ -1,0 +1,18 @@
+The file names indicate the first file on that save. For a more accurate list of what each save is see below.
+
+Backup 1: Start, post-Orca, pre-rope game 1
+Backup 2: FF1 start pre-cs, Windfall 1, Wind Waker
+Backup 3: Greatfish, password skip/ropes 2.0, FH swim
+Backup 4: Post-Deku Leaf, FW entrance, Outset SS
+Backup 5: STI swim, DRI/DBS, DRC entrance
+Backup 6: Post-DRC, TotG entrance, Hyrule 1 pre-MS
+Backup 7: Hyrule 1 post-MS, NTI, IoS save warp
+Backup 8: FF2 swim, FF2 save warp, Helmaroc
+Backup 9: Hyrule 2 post-cutscenes, MaC, FM
+Backup 10: N. Fairy, Headstone, DRI
+Backup 11: FH, IB save warp, MS save warp
+Backup 12: Headstone, BPR, WT Start
+Backup 13: Gale, Overlook, pre-savage
+Backup 14: DS, Stonewatcher, Private Oasis
+backup 15: Post-Private Oasis, Tingle Island, Hyrule 3
+Backup 16: Trials, Puppet Ganon, Ganondorf
