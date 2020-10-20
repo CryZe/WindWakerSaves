@@ -1,0 +1,24 @@
+01:
+ - File 1 -> Outset Island before doing the Manual Superswim
+ - File 2 -> Outset Island after obtaining the Wind Waker, but before Forsaken Fortress 1
+ - File 3 -> Windfall right after Forsaken Fortress 1 and before buying the Sail
+ 
+02:
+ - File 1 -> Windfall right before the Greatfish Cutscene Skip
+ - File 2 -> Windfall at endless night before Password Skip
+ - File 3 -> Windfall right before the superswim to Forest Haven
+ 
+03:
+ - File 1 -> Forest Haven before Deku Tree Cutscene Skip
+ - File 2 -> Forest Haven before the superswim to Forsaken Fortress 2
+ - File 3 -> Helmaroc King fight
+ 
+04:
+ - File 1 -> Hyrule Castle interior right before Barrier Skip
+ - File 2 -> Ganon's Tower right before Trials Skip
+ - File 3 -> Inner Ganon's Tower before fighting Puppet Ganon
+ 
+05:
+ - File 1 -> Inner Ganon's Tower with the Warp Pot Lid still on
+ - File 2 -> Inner Ganon's Tower with the Warp Pot Lid burned off
+ - File 3 -> Inner Ganon's Tower with and Warp Pot Lid burned off and Hookshot for easy Ganondorf fight access
